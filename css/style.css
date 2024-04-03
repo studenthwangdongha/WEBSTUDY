@@ -28,3 +28,9 @@ div#ootd {
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+div#login_form{
+    text-align: center;
+}
+div#login_form input{
+    display: inline-block;
+}
